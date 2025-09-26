@@ -1,0 +1,1 @@
+This project analyzes customer purchasing behavior using RFM analysis and applies K-Means clustering to group customers into meaningful segments. The results are visualized through graphs and charts to identify key patterns in customer behavior.
